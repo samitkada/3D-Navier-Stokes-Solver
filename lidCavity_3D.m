@@ -6,7 +6,7 @@
 %  Physics: A cube of fluid. The top lid moves at U=1 in the x-direction.
 %           Viscosity resists the motion. A 3D vortex structure forms.
 %
-%  Tools: MATLAB | Author: [Your Name]
+%  Tools: MATLAB | Author: [Samit Kadasinghanahalli]
 %% ============================================================
 
 clc; clear; close all;
